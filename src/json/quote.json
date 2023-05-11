@@ -1,0 +1,512 @@
+[
+  {
+    "quote": "Life isn’t about getting and having, it’s about giving and being.",
+    "author": "Kevin Kruse",
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "author": "Napoleon Hill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Napoleon_Hill_headshot.jpg"
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "image": "https://asisucede.com.mx/wp-content/uploads/2017/05/Albert-Einstein-jpg-300x300.jpg"
+  },
+  {
+    "quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
+    "author": "Robert Frost",
+    "image": "https://2.bp.blogspot.com/-LJcKKawUGT4/WsdzqOS9BdI/AAAAAAAAAmI/A_DM3LFSTIwzpOjwaGWiGZcY17y0Iql6QCLcBGAs/s1600/Biography-Robert-Frost.jpg"
+  },
+  {
+    "quote": "I attribute my success to this: I never gave or took any excuse.",
+    "author": "Florence Nightingale",
+    "image": "https://www.aulafacil.com/uploads/cursos/1487/editor/456px-florence_nightingale_cdv_by_h_lenthall.es.jpg"
+  },
+  {
+    "quote": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Wayne_Gretzky_2006-02-18_Turin_001.jpg"
+  },
+  {
+    "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "image": "https://www.biografiasyvidas.com/biografia/j/fotos/jordan_michael_1.jpg"
+  },
+  {
+    "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "author": "Amelia Earhart",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/miss-amelia-earhart-the-girl-lindy-who-arrived-in-trepassey-news-photo-1613352791.?crop=0.803xw:0.781xh;0.0935xw,0.0454xh&resize=640:*"
+  },
+  {
+    "quote": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth",
+    "image": "https://ids.si.edu/ids/deliveryService?id=NPG-NPG_78_150RuthM-000004"
+  },
+  {
+    "quote": "Definiteness of purpose is the starting point of all achievement.",
+    "author": "W. Clement Stone",
+    "image": "https://m.media-amazon.com/images/I/81h2i4S145L.SX450.jpg"
+  },
+  {
+    "quote": "We must balance conspicuous consumption with conscious capitalism.",
+    "author": "Kevin Kruse",
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "quote": "Life is what happens to you while you’re busy making other plans.",
+    "author": "John Lennon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg"
+  },
+  {
+    "quote": "We become what we think about.",
+    "author": "Earl Nightingale",
+    "image": "https://i.discogs.com/Few1PSqFTJu2x84ad_6BUTDmbbDVVffZidpqjfHFR5o/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MjQ3/NDMtMTM1MTk3NDYx/NC03MzIzLmpwZWc.jpeg"
+  },
+  {
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
+    "author": "Mark Twain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/640px-Mark_Twain_by_AF_Bradley.jpg"
+  },
+  {
+    "quote": "Life is 10% what happens to me and 90% of how I react to it.",
+    "author": "Charles Swindoll",
+    "image": "https://www.editorialpatmos.com/media/rokanthemes/brand/chuck-swindoll.jpg"
+  },
+  {
+    "quote": "The most common way people give up their power is by thinking they don’t have any.",
+    "author": "Alice Walker",
+    "image": "https://cdn.britannica.com/59/226659-050-4BD113B3/Alice-Walker-2005.jpg"
+  },
+  {
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "image": "https://cdn.britannica.com/61/218561-050-47A98FB5/seated-Buddha-bronze-sculpture.jpg"
+  },
+  {
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "image": "https://www.tboxplanet.com/web/culturas/images/image047.jpg"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/1200px-Socrate_du_Louvre.jpg"
+  },
+  {
+    "quote": "Eighty percent of success is showing up.",
+    "author": "Woody Allen",
+    "image": "https://media.vogue.es/photos/5ec3bac7e1abec772f22f325/2:3/w_2560%2Cc_limit/GettyImages-73906602.jpg"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg"
+  },
+  {
+    "quote": "Winning isn’t everything, but wanting to win is.",
+    "author": "Vince Lombardi",
+    "image": "https://images.squarespace-cdn.com/content/v1/595547789de4bbe39224b04a/1600809480669-4SHHBG23ZQ2MWWGW0BV8/Lombardi_Head_Coach_012816_post.jpg?format=1000w"
+  },
+  {
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen Covey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stephen_Covey_2010.jpg/220px-Stephen_Covey_2010.jpg"
+  },
+  {
+    "quote": "Every child is an artist.  The problem is how to remain an artist once he grows up.",
+    "author": "Pablo Picasso",
+    "image": "https://www.biografiasyvidas.com/monografia/picasso/fotos/picasso_420.jpg"
+  },
+  {
+    "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "author": "Christopher Columbus",
+    "image": "https://www.kofc.org/assets/images/multimedia-background/news-room/columbus/about-columbus-mobile@2x.jpg"
+  },
+  {
+    "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "author": "Maya Angelou",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpg"
+  },
+  {
+    "quote": "Either you run the day, or the day runs you.",
+    "author": "Jim Rohn",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/20160304132547-jim-rohn.jpeg?crop=4:3"
+  },
+  {
+    "quote": "Whether you think you can or you think you can’t, you’re right.",
+    "author": "Henry Ford",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg"
+  },
+  {
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/640px-Mark_Twain_by_AF_Bradley.jpg"
+  },
+  {
+    "quote": "Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.",
+    "author": "Johann Wolfgang von Goethe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/800px-Goethe_%28Stieler_1828%29.jpg"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-119684687.jpg"
+  },
+  {
+    "quote": "People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.",
+    "author": "Zig Ziglar",
+    "image": "https://www.zigziglaraward.org/uploaded/Prestonwood_Christian_Academy/Zig_Ziglar/Zig_Standing_Headshot.jpg"
+  },
+  {
+    "quote": "Life shrinks or expands in proportion to one’s courage.",
+    "author": "Anais Nin",
+    "image": "https://historia.nationalgeographic.com.es/medio/2022/02/21/anais-nin-durante-su-juventud_6be04004_800x1195.jpg"
+  },
+  {
+    "quote": "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.",
+    "author": "Vincent Van Gogh",
+    "image": "https://www.imer.mx/radiolagarto/wp-content/uploads/sites/28/Van-Gogh.jpg"
+  },
+  {
+    "quote": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+    "author": "Aristotle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/800px-Aristotle_Altemps_Inv8575.jpg"
+  },
+  {
+    "quote": "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
+    "author": "Jesus",
+    "image": "https://images.theconversation.com/files/346421/original/file-20200708-3995-5ulgxa.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip"
+  },
+  {
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "image": "https://cdn.britannica.com/56/65056-050-9E0FABF2/Ralph-Waldo-Emerson-1860.jpg"
+  },
+  {
+    "quote": "Go confidently in the direction of your dreams.  Live the life you have imagined.",
+    "author": "Henry David Thoreau",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-3264616.jpg"
+  },
+  {
+    "quote": "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.",
+    "author": "Erma Bombeck",
+    "image": "https://ermabombeckcollection.files.wordpress.com/2016/02/11416422_1203394216338445_5018932938431112044_o.jpg?w=215"
+  },
+  {
+    "quote": "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
+    "author": "Booker T. Washington",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-50593364.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
+  },
+  {
+    "quote": "Certain things catch your eye, but pursue only those that capture the heart.",
+    "author": " Ancient Indian Proverb",
+    "image": "https://meditacionypsicologia.com/wp-content/uploads/2020/03/historical-1386156_1280.jpg"
+  },
+  {
+    "quote": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt",
+    "image": "https://www.nps.gov/common/uploads/people/nri/20170213/people/3FF551DC-1DD8-B71B-0B7DF2CC845614F8/3FF551DC-1DD8-B71B-0B7DF2CC845614F8.jpg"
+  },
+  {
+    "quote": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/George_W._Adair.jpg"
+  },
+  {
+    "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "author": "Plato",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Plato_Pio-Clemetino_Inv305.jpg"
+  },
+  {
+    "quote": "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
+    "author": "Maimonides",
+    "image": "https://www.buscabiografias.com/img/people/Maimonides.jpg"
+  },
+  {
+    "quote": "Start where you are. Use what you have.  Do what you can.",
+    "author": "Arthur Ashe",
+    "image": "https://cdn.britannica.com/93/192393-050-BF5E550C/Arthur-Ashe-trophy-singles-title-Wimbledon-1975.jpg"
+  },
+  {
+    "quote": "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
+    "author": "John Lennon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb",
+    "image": "https://www.navarratelevision.es/media/IMG/2023/D78E479A-C3EE-175C-078DCC72B65E5071.JPG"
+  },
+  {
+    "quote": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+    "author": "Helen Keller",
+    "image": "https://www.womenshistory.org/sites/default/files/images/2018-07/Keller_Helen%20square.jpg"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone can see.",
+    "author": "Confucius",
+    "image": "https://i.natgeofe.com/n/d7b042d8-ee0b-48a2-935c-5eddbbec0ed7/02-confucius.jpg?w=2880&h=3654"
+  },
+  {
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "author": "Anne Frank",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anne_Frank_lacht_naar_de_schoolfotograaf.jpg/250px-Anne_Frank_lacht_naar_de_schoolfotograaf.jpg"
+  },
+  {
+    "quote": "When I let go of what I am, I become what I might be.",
+    "author": "Lao Tzu",
+    "image": "https://images.gr-assets.com/authors/1435903703p5/2622245.jpg"
+  },
+  {
+    "quote": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "author": "Maya Angelou",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpg"
+  },
+  {
+    "quote": "Happiness is not something readymade.  It comes from your own actions.",
+    "author": "Dalai Lama",
+    "image": "https://i.etsystatic.com/10011515/r/il/981525/2377666030/il_fullxfull.2377666030_c1ea.jpg"
+  },
+  {
+    "quote": "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+    "author": "Sheryl Sandberg",
+    "image": "https://marvel-b1-cdn.bc0a.com/f00000000163918/www.care.org/wp-content/uploads/2021/04/sheryl-sandberg-bio.jpg"
+  },
+  {
+    "quote": "First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+    "author": "Aristotle",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/800px-Aristotle_Altemps_Inv8575.jpg"
+  },
+  {
+    "quote": "If the wind will not serve, take to the oars.",
+    "author": "Latin Proverb",
+    "image": "https://www.actualidadliteratura.com/wp-content/uploads/2019/06/tablilla-en-latin.jpg"
+  },
+  {
+    "quote": "You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground.",
+    "author": "Unknown",
+    "image": "https://mohitpawar.com/wp-content/uploads/2010/10/unknown.jpg"
+  },
+  {
+    "quote": "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+    "author": "Marie Curie",
+    "image": "https://historia.nationalgeographic.com.es/medio/2022/03/29/marie-curie_f45f6f98_550x799.jpg"
+  },
+  {
+    "quote": "Too many of us are not living our dreams because we are living our fears.",
+    "author": "Les Brown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Les_Brown_speaking.jpg"
+  },
+  {
+    "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+    "author": "Joshua J. Marine",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-b9426eb8963387a2855b2d76f6cc925e"
+  },
+  {
+    "quote": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg"
+  },
+  {
+    "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+    "author": "Leonardo da Vinci",
+    "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/01-leonardo-da-vinci-book-talk.jpg?w=1600"
+  },
+  {
+    "quote": "Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless.",
+    "author": "Jamie Paolinetti",
+    "image": "https://vidyavalley.com/wp-content/uploads/2020/09/Jamie-Paolinetti.jpg"
+  },
+  {
+    "quote": "You take your life in your own hands, and what happens? A terrible thing, no one to blame.",
+    "author": "Erica Jong",
+    "image": "https://jewishhome.org/wp-content/uploads/2023/01/Headshot-Erica-Jong_Credit_MaryAnn-Halpin-long.jpg"
+  },
+  {
+    "quote": "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+    "author": "Bob Dylan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg/640px-Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg"
+  },
+  {
+    "quote": "I didn’t fail the test. I just found 100 ways to do it wrong.",
+    "author": "Benjamin Franklin",
+    "image": "https://www.plusesmas.com/pictures/biografias/6000/6115.jpg"
+  },
+  {
+    "quote": "In order to succeed, your desire for success should be greater than your fear of failure.",
+    "author": "Bill Cosby",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/800px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": " Albert Einstein",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+  },
+  {
+    "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "author": "Chinese Proverb",
+    "image": "https://www.tboxplanet.com/web/culturas/images/image047.jpg"
+  },
+  {
+    "quote": "There are no traffic jams along the extra mile.",
+    "author": "Roger Staubach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Staubach_cowboys_qb.jpg"
+  },
+  {
+    "quote": "It is never too late to be what you might have been.",
+    "author": "George Eliot",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/800px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg"
+  },
+  {
+    "quote": "You become what you believe.",
+    "author": "Oprah Winfrey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg"
+  },
+  {
+    "quote": "I would rather die of passion than of boredom.",
+    "author": "Vincent van Gogh",
+    "image": "https://www.imer.mx/radiolagarto/wp-content/uploads/sites/28/Van-Gogh.jpg"
+  },
+  {
+    "quote": "A truly rich man is one whose children run into his arms when his hands are empty.",
+    "author": "Unknown",
+    "image": "https://mohitpawar.com/wp-content/uploads/2010/10/unknown.jpg"
+  },
+  {
+    "quote": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+    "author": "Ann Landers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ann_Landers_1983.jpg"
+  },
+  {
+    "quote": "If you want your children to turn out well, spend twice as much time with them, and half as much money.",
+    "author": "Abigail Van Buren",
+    "image": "https://cdn.jwa.org/sites/default/files/mediaobjects/abigail_van_buren_1961.jpg"
+  },
+  {
+    "quote": "Build your own dreams, or someone else will hire you to build theirs.",
+    "author": "Farrah Gray",
+    "image": "https://m.media-amazon.com/images/M/MV5BOThkNzZhMzQtNmIwMS00MzA1LTk3NGUtMDMzYjcwODI3ZWI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@.V1.jpg"
+  },
+  {
+    "quote": "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+    "author": "Jesse Owens",
+    "image": "https://img.olympicchannel.com/images/image/private/t_1-1_300/f_auto/primary/v4zybqgbkb1fam12igrq"
+  },
+  {
+    "quote": "Education costs money.  But then so does ignorance.",
+    "author": "Sir Claus Moser",
+    "image": "https://live.staticflickr.com/5705/20597036244_903cce8415_h.jpg"
+  },
+  {
+    "quote": "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+    "author": "Rosa Parks",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosaparks.jpg"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "image": "https://i.natgeofe.com/n/d7b042d8-ee0b-48a2-935c-5eddbbec0ed7/02-confucius.jpg?w=2880&h=3654"
+  },
+  {
+    "quote": "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+    "author": "Oprah Winfrey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/800px-Oprah_in_2014.jpg"
+  },
+  {
+    "quote": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+    "author": "Dalai Lama",
+    "image": "https://www.vanidades.com/__export/1633437199642/sites/vanidades/img/historico/2019/11/DalaCC81ilama17jpg.jpg_423682103.jpg"
+  },
+  {
+    "quote": "You can’t use up creativity.  The more you use, the more you have.",
+    "author": "Maya Angelou",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpg"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGFlY2M0MjctNjI1Zi00ZDgxLWFiNjQtYjgwMmZhYTY1ZGQ0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@.V1.jpg"
+  },
+  {
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg"
+  },
+  {
+    "quote": "Do what you can, where you are, with what you have.",
+    "author": "Teddy Roosevelt",
+    "image": "https://www.nps.gov/common/uploads/people/nri/20170213/people/3FF551DC-1DD8-B71B-0B7DF2CC845614F8/3FF551DC-1DD8-B71B-0B7DF2CC845614F8.jpg"
+  },
+  {
+    "quote": "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+    "author": "Tony Robbins",
+    "image": "https://bossbabe.com/wp-content/uploads/2021/05/JSeif_Tony_Robbins_IMG_7544-1-scaled.jpg"
+  },
+  {
+    "quote": "Dreaming, after all, is a form of planning.",
+    "author": "Gloria Steinem",
+    "image": "https://i.natgeofe.com/n/28a4b70e-c4a5-4e15-a038-dbc0bd542181/01-gloria-steinem-difficult-women.jpg?w=2880&h=3826"
+  },
+  {
+    "quote": "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
+    "author": "Mae Jemison",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mae_Carol_Jemison.jpg/1200px-Mae_Carol_Jemison.jpg"
+  },
+  {
+    "quote": "You may be disappointed if you fail, but you are doomed if you don’t try.",
+    "author": "Beverly Sills",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Beverly_Sills_in_%22Manon%22%2C_cropped.jpg/220px-Beverly_Sills_in_%22Manon%22%2C_cropped.jpg"
+  },
+  {
+    "quote": "Remember no one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "image": "https://www.nps.gov/common/uploads/people/nri/20200325/people/BADABDD6-EC18-1B21-29DC983FCC47C1AA/BADABDD6-EC18-1B21-29DC983FCC47C1AA.jpg"
+  },
+  {
+    "quote": "Life is what we make it, always has been, always will be.",
+    "author": "Grandma Moses",
+    "image": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydGlzdFwvaW1hZ2VGaWxlXC9ncmFuZG1hX21vc2VzLmpwZyIsInJlc2l6ZSw2MDAsNjAwIl19.4S7w9Tahqvwso5NO2AiBJVCHhR7j3MqHOAQEozEHpQM.jpg"
+  },
+  {
+    "quote": "The question isn’t who is going to let me; it’s who is going to stop me.",
+    "author": "Ayn Rand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/640px-Ayn_Rand_%281943_Talbot_portrait%29.jpg"
+  },
+  {
+    "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+    "author": "Henry Ford",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg"
+  },
+  {
+    "quote": "It’s not the years in your life that count. It’s the life in your years.",
+    "author": "Abraham Lincoln",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg"
+  },
+  {
+    "quote": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "image": "https://guideposts.org/wp-content/uploads/2016/05/slide_nvprobes.jpg.optimal.jpg"
+  },
+  {
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin",
+    "image": "https://www.plusesmas.com/pictures/biografias/6000/6115.jpg"
+  },
+  {
+    "quote": "Nothing is impossible, the word itself says, “I’m possible!”",
+    "author": "–Audrey Hepburn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Audrey_Hepburn_1954.jpg"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg"
+  },
+  {
+    "quote": "If you can dream it, you can achieve it.",
+    "author": "Zig Ziglar",
+    "image": "https://static01.nyt.com/images/2012/11/30/business/Ziglar2/Ziglar2-jumbo.jpg?quality=75&auto=webp&disable=upscale"
+  }
+]
